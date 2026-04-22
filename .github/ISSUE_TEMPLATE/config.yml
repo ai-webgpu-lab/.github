@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Master Summary
+    url: https://github.com/ai-webgpu-lab/docs-lab-roadmap/blob/main/docs/00-master-summary.md
+    about: Review the organization goals, operating model, and active repository set.
+  - name: Repository Map
+    url: https://github.com/ai-webgpu-lab/docs-lab-roadmap/blob/main/docs/01-org-repo-map.md
+    about: Check the repository naming rules and ownership model before opening a request.
