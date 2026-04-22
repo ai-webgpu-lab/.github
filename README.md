@@ -6,7 +6,6 @@ Organization-wide community health files for AI WebGPU Lab.
 - Issue forms for experiments, benchmarks, infra, docs, and bugs
 - Pull request template
 - Organization profile README
-- Shared `RESULTS-template.md` reference
 - Default `CODEOWNERS`
 
 ## Notes

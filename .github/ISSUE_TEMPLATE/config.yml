@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Master Summary
     url: https://github.com/ai-webgpu-lab/docs-lab-roadmap/blob/main/docs/00-master-summary.md
-    about: Review the organization goals, operating model, and active repository set.
+    about: 조직 운영 방향과 저장소 구조를 먼저 확인합니다.
   - name: Repository Map
     url: https://github.com/ai-webgpu-lab/docs-lab-roadmap/blob/main/docs/01-org-repo-map.md
-    about: Check the repository naming rules and ownership model before opening a request.
+    about: 새 저장소 또는 작업 분류 전에 저장소 맵을 확인합니다.
