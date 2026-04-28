@@ -22,6 +22,12 @@ Browser-first research organization for WebGPU graphics, scientific visualizatio
 - WebGPU-first, with fallback paths recorded explicitly.
 - Repositories are reviewed on a promote / continue / archive cadence.
 
+## Live Status
+- Pages/demo status: `docs-lab-roadmap/docs/PAGES-STATUS.md`
+- Integration status: `docs-lab-roadmap/docs/INTEGRATION-STATUS.md`
+- Sketch metrics: `docs-lab-roadmap/docs/SKETCH-METRICS.md`
+- Representative real-mode smoke targets: `bench-runtime-shootout`, `exp-three-webgpu-core`, `bench-renderer-shootout`, `app-blackhole-observatory`
+
 ## Start Here
 - Master summary: `docs-lab-roadmap/docs/00-master-summary.md`
 - Repository map: `docs-lab-roadmap/docs/01-org-repo-map.md`

@@ -19,6 +19,12 @@
 - 실험/벤치 저장소의 결과 리포팅 규칙은 `docs-lab-roadmap`의 계획 문서와 일치해야 합니다.
 - 이 저장소의 변경은 조직 전체 UX에 영향을 주므로 문구 변경도 목적과 파급 범위를 명확히 남겨야 합니다.
 
+## 조직 상태 대시보드
+- 전체 repo/Pages 상태: `docs-lab-roadmap/docs/PAGES-STATUS.md`
+- 통합 sketch/adapter 상태: `docs-lab-roadmap/docs/INTEGRATION-STATUS.md`
+- sketch capabilities: `docs-lab-roadmap/docs/SKETCH-METRICS.md`
+- 조직 프로필은 `.github/profile/README.md`에서 관리합니다.
+
 ## 갱신 기준
 - 새 저장소 유형이 추가되면 대응 이슈 폼 또는 템플릿을 함께 추가합니다.
 - 리뷰 흐름이 바뀌면 `CODEOWNERS`, PR 템플릿, 조직 프로필을 함께 갱신합니다.
