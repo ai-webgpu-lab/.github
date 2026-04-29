@@ -1,5 +1,9 @@
 # AI WebGPU Lab
 
+[![CI](https://github.com/ai-webgpu-lab/docs-lab-roadmap/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ai-webgpu-lab/docs-lab-roadmap/actions/workflows/ci.yml)
+[![Deploy GitHub Pages Demo](https://github.com/ai-webgpu-lab/docs-lab-roadmap/actions/workflows/deploy-pages.yml/badge.svg?branch=main)](https://github.com/ai-webgpu-lab/docs-lab-roadmap/actions/workflows/deploy-pages.yml)
+[![Operations Status Check](https://github.com/ai-webgpu-lab/docs-lab-roadmap/actions/workflows/operations-check.yml/badge.svg?branch=main)](https://github.com/ai-webgpu-lab/docs-lab-roadmap/actions/workflows/operations-check.yml)
+
 Browser-first research organization for WebGPU graphics, scientific visualization, and on-device AI workloads.
 
 ## Focus Areas
@@ -24,6 +28,7 @@ Browser-first research organization for WebGPU graphics, scientific visualizatio
 
 ## Live Status
 - Pages/demo status: `docs-lab-roadmap/docs/PAGES-STATUS.md`
+- Actions/deploy/operations status: `docs-lab-roadmap/docs/WORKFLOW-STATUS.md`
 - Integration status: `docs-lab-roadmap/docs/INTEGRATION-STATUS.md`
 - Sketch metrics: `docs-lab-roadmap/docs/SKETCH-METRICS.md`
 - Representative real-mode smoke targets: `bench-runtime-shootout`, `exp-three-webgpu-core`, `bench-renderer-shootout`, `app-blackhole-observatory`
