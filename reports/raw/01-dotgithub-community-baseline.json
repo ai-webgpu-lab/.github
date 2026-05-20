@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "repo": ".github",
+    "commit": "8e95e51",
+    "timestamp": "2026-05-20T15:33:48.268Z",
+    "owner": "ai-webgpu-lab",
+    "track": "infra",
+    "scenario": "dotgithub-community-baseline",
+    "notes": "issue-forms=5; community-files=6; profile-sections=4; contributing-sections=3; codeowners=true; automation=playwright-chromium",
+    "capture_context": {
+      "tool": "playwright-chromium",
+      "browser_name": "Chromium",
+      "browser_version": "147.0.7727.15",
+      "headless": true,
+      "captured_at": "2026-05-20T15:33:48.407Z",
+      "captured_by": "codex"
+    },
+    "capture_scenario_id": "01-dotgithub-community-baseline"
+  },
+  "environment": {
+    "browser": {
+      "name": "Chrome",
+      "version": "147.0.7727.15"
+    },
+    "os": {
+      "name": "Linux",
+      "version": "unknown"
+    },
+    "device": {
+      "name": "Linux x86_64",
+      "class": "desktop-high",
+      "cpu": "16 threads",
+      "memory_gb": 32,
+      "power_mode": "unknown"
+    },
+    "gpu": {
+      "adapter": "n/a (org template audit)",
+      "required_features": [],
+      "limits": {}
+    },
+    "backend": "webgpu",
+    "fallback_triggered": false,
+    "worker_mode": "main",
+    "cache_state": "warm"
+  },
+  "workload": {
+    "kind": "infra",
+    "name": "dotgithub-community-baseline",
+    "input_profile": "org-template-surface",
+    "model_id": "audit-18-items",
+    "dataset": "dotgithub-community-v1"
+  },
+  "metrics": {
+    "common": {
+      "time_to_interactive_ms": 1742.4,
+      "init_ms": 7.2,
+      "success_rate": 1,
+      "peak_memory_note": "n/a (org template audit)",
+      "error_type": ""
+    },
+    "infra": {
+      "issue_form_count": 5,
+      "community_file_count": 6,
+      "profile_section_count": 4,
+      "contributing_section_count": 3,
+      "validated_item_count": 18,
+      "expected_item_count": 18,
+      "coverage_pct": 100,
+      "codeowners_present": true,
+      "baseline_readiness_score": 107
+    }
+  },
+  "status": "success",
+  "artifacts": {
+    "raw_logs": [
+      "./reports/logs/01-dotgithub-community-baseline.log"
+    ],
+    "deploy_url": "https://ai-webgpu-lab.github.io/.github/",
+    "screenshots": [
+      "./reports/screenshots/01-dotgithub-community-baseline.png"
+    ]
+  }
+}
